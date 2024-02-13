@@ -1,0 +1,9 @@
+2023-11-03 15:59:13,064:INFO:selrahulone.pytest_demos.test_logging:its info details related
+2023-11-03 15:59:13,065:WARNING:selrahulone.pytest_demos.test_logging:its shows the warning 
+2023-11-03 15:59:13,066:ERROR:selrahulone.pytest_demos.test_logging:its shows the error
+2023-11-03 15:59:13,066:CRITICAL:selrahulone.pytest_demos.test_logging:its shows the critical
+2023-11-03 16:00:29,381:INFO:selrahulone.pytest_demos.test_logging:its info details related
+2023-11-03 16:00:29,381:WARNING:selrahulone.pytest_demos.test_logging:its shows the warning 
+2023-11-03 16:00:29,382:ERROR:selrahulone.pytest_demos.test_logging:its shows the error
+2023-11-03 16:00:29,382:CRITICAL:selrahulone.pytest_demos.test_logging:its shows the critical
+2023-11-03 16:00:29,383:DEBUG:selrahulone.pytest_demos.test_logging:its show the debug related details
