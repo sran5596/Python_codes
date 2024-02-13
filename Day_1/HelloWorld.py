@@ -2,7 +2,7 @@ print("world")
 a=10
 b=20
 print(a+b)
-printt("hello")
+print("hello")
 
 #below code for check the keywords in python
 # import keyword
